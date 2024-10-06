@@ -1,1 +1,5 @@
-# Elasticsearch_API
+# Elasticsearch_API 📝
+
+## Deployment Setup
+
+`go run main.go`
